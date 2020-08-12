@@ -1,0 +1,539 @@
+#Fone {
+    width: 755px ;
+    height: 755px;
+    background: #2F4F4F;
+    position: top;
+}
+#Kvadrat1{
+     width: 120px ;
+     height: 120px ;
+     background-color: #00FA9A;
+     position: absolute ;
+     top: 8px;
+     left: 8px;
+     right: 0px ;
+     bottom: 0px;
+
+}
+#Kvadrat2{
+     width: 120px ;
+     height: 120px ;
+     background-color: #00FA9A;
+     position: absolute ;
+     top: 8px;
+     left: 643px;
+     right: 0px ;
+     bottom: 0px;
+
+}
+#Kvadrat3{
+     width: 120px ;
+     height: 120px ;
+     background-color: #00FA9A;
+     position: absolute ;
+     top: 643px;
+     left: 8px;
+     right: 0px ;
+     bottom: 0px;
+
+}
+#Kvadrat4{
+     width: 120px ;
+     height: 120px ;
+     background-color: #00FA9A;
+     position: absolute ;
+     top: 643px;
+     left: 643px;
+     right: 0px ;
+     bottom: 0px;
+}
+#Kletka1 {
+    width: 55px;
+    height: 120px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 8px;
+    left: 130px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka2 {
+    width: 55px;
+    height: 120px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 8px;
+    left: 187px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka3 {
+    width: 55px;
+    height: 120px;
+    position: absolute;
+    background-color:#DCDCDC;
+    top: 8px;
+    left: 244px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka4 {
+    width: 55px;
+    height: 120px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 8px;
+    left: 301px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka5 {
+    width: 55px;
+    height: 120px;
+    position: absolute;
+    background-color:#DCDCDC;
+    top: 8px;
+    left: 358px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka6 {
+    width: 55px;
+    height: 120px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 8px;
+    left: 415px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka7 {
+    width: 55px;
+    height: 120px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 8px;
+    left: 472px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka8 {
+    width: 55px;
+    height: 120px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 8px;
+    left: 529px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka9 {
+    width: 55px;
+    height: 120px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 8px;
+    left: 586px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka10 {
+    width: 120px;
+    height: 55px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 130px;
+    left: 643px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka11 {
+    width: 120px;
+    height: 55px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 187px;
+    left: 643px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka12 {
+    width: 120px;
+    height: 55px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 244px;
+    left: 643px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka13 {
+    width: 120px;
+    height: 55px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 301px;
+    left: 643px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka14 {
+    width: 120px;
+    height: 55px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 358px;
+    left: 643px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka15 {
+    width: 120px;
+    height: 55px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 415px;
+    left: 643px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka16 {
+    width: 120px;
+    height: 55px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 472px;
+    left: 643px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka17 {
+    width: 120px;
+    height: 55px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 529px;
+    left: 643px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka18 {
+    width: 120px;
+    height: 55px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 586px;
+    left: 643px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka19 {
+    width: 55px;
+    height: 120px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 643px;
+    left: 586px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka20 {
+    width: 55px;
+    height: 120px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 643px;
+    left: 529px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka21 {
+    width: 55px;
+    height: 120px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 643px;
+    left: 472px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka22 {
+    width: 55px;
+    height: 120px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 643px;
+    left: 415px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka23 {
+    width: 55px;
+    height: 120px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 643px;
+    left: 358px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka24 {
+    width: 55px;
+    height: 120px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 643px;
+    left: 301px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka25 {
+    width: 55px;
+    height: 120px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 643px;
+    left: 244px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka26 {
+    width: 55px;
+    height: 120px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 643px;
+    left: 187px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka27 {
+    width: 55px;
+    height: 120px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 643px;
+    left: 130px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka28 {
+    width: 120px;
+    height: 55px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 586px;
+    left: 8px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka29 {
+    width: 120px;
+    height: 55px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 529px;
+    left: 8px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka30 {
+    width: 120px;
+    height: 55px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 472px;
+    left: 8px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka31 {
+    width: 120px;
+    height: 55px;
+    position: absolute;
+    background-color:#DCDCDC;
+    top: 415px;
+    left: 8px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka32 {
+    width: 120px;
+    height: 55px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 358px;
+    left: 8px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka33 {
+    width: 120px;
+    height: 55px;
+    position: absolute;
+    background-color:#DCDCDC;
+    top: 301px;
+    left: 8px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka34 {
+    width: 120px;
+    height: 55px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 244px;
+    left: 8px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka35 {
+    width: 120px;
+    height: 55px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 187px;
+    left: 8px;
+    right: 0px;
+    bottom: 0px;
+}
+#Kletka36 {
+    width: 120px;
+    height: 55px;
+    position: absolute;
+    background-color: #DCDCDC;
+    top: 130px;
+    left: 8px;
+    right: 0px;
+    bottom: 0px;
+}
+
+#TextVKvadrate {
+    font-size: 220%;
+    font-family: cursive;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+#TextVKletke {
+     writing-mode: tb-rl;
+    -webkit-writing-mode: vertical-rl;
+    -webkit-transform: rotate(180deg);
+    font-size: 130%;
+    font-family: cursive;
+}
+#Chance {
+    color: #A52A2A;
+    writing-mode: tb-rl;
+    -webkit-writing-mode: vertical-rl;
+    -webkit-transform: rotate(180deg);
+    font-size: 130%;
+    font-family: cursive;
+}
+#TextVKletke2 {
+    font-size: 130%;
+    font-family: cursive;
+}
+#Chance2 {
+    color: #A52A2A;
+    font-size: 130%;
+    font-family: cursive;
+}
+
+input {
+    width: 495px;
+    height: 15px;
+    position: absolute;
+    top: 480px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    border-radius: 25px;
+    background-color: #00fa9a42;
+    color: #ffffff;
+}
+#Message_in_chat {
+    width: 495px;
+    height: 465px;
+    background-color: #00fa9a42;
+    top: 5px;
+    left: 5px;
+    right: 0px;
+    bottom: 0px;
+    position: absolute;
+    border-radius: 25px;
+    color: #ffffff;
+}
+
+#Player {
+    background-color: #696969;
+    width: 45px;
+    height:45px;
+    position: absolute;
+    top: 78px; 
+    left: 78px;
+    right: 0px;
+    bottom: 0px;
+    border-radius: 0%;
+    color : white;
+    -webkit-text-stroke: 0px black;
+
+}
+#Player.Active{
+    background-color: red;
+}
+
+#Player_stats {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 8px;
+    left: 775px;
+    right: 0px;
+    bottom: 0px;
+    background-color: #000080;
+}
+#Player-Money {
+    color: #DAA520;
+    font: bold;
+    margin-left: 10px;
+    font-size: 20px;
+}
+#Chat {
+    width:505px ;
+    height:505px;
+    position: absolute;
+    top: 133px;
+    left: 133px;
+    right: 0px;
+    bottom: 0px;
+}
+
+#Rand4 {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 300px;
+    left: 775px;
+    right: 0px;
+    bottom: 0px;
+}
+#AVA {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    right: 0px;
+    bottom: 0px;
+}
+
+#Message {
+    margin-left: 30%;
+    margin-top: 30%;
+    color: gold;
+    font-size: 150px;
+   -webkit-text-stroke: 2px black;
+}
